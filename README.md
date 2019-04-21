@@ -10,16 +10,13 @@ SUMMARY-------------------------------------------------------------------------
 This algorithm was developed for a mine problem, that was:
 Always that a download a movie by Torrent, besides the Movie File, the download brought some files about merchandasing
 from the site that I download it and some times, subtitle files, that I doesn't want.
-Already the movie's title it was composoed by the movie title, it premiere year, it resolution and the site's like that a downloaed
-and without blank spaces, just dots.
-Like the behind exemple for the fictitious movie "Leo's Adventures":
+Already the movie's title it was composoed by the movie title, it premiere year, it resolution and the site's link that a downloaed it. And blank spaces replaced by dots, all these like the behind exemple for the fictitious movie "Leo's Adventures":
 
 	Movie Libary/Leo's Adventures/
 	
 	SiteMerchandasing.png   Subtitles.sub   Leo's.Adventures.2019.1080p.www.leodownload.com.br.mkv   README.md   Merchandasing.mp4
 
-So, what I want is, after executing the algorithm, there is just the movie file, and renamed without dots and with just the movies
-name and the premiere year. So for the previous exemple, the result will be:
+So, what I want is: after executing the algorithm, there is just the movie file, renamed without dots, composed by just the movie name and the premiere year. So for the previous exemple, the result will be:
 
 	Movie Libary/
 
